@@ -1,0 +1,15 @@
+RC522 → ESP32
+
+SDA → GPIO5
+SCK → GPIO18
+MOSI → GPIO23
+MISO → GPIO19
+RST → GPIO22
+
+Relay → ESP32
+
+IN → GPIO26
+VCC → 5V
+GND → GND
+
+Solenoid Lock → Relay Output
